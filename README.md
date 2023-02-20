@@ -1,3 +1,3 @@
 # flask-on-docker-1
 
-This is a docker project
+This is a docker project for big data class
